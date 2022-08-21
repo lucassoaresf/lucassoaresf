@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**lucassoaresf/lucassoaresf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biografia
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou atuando como Diretor de Ti da Prefeitura da minha cidade.
+- 🌱 Ainda sou iniciante no mundo DEV, porém, já aprendi sobre HTML5, CSS3, Javascript, Git e Github, já tive um pequeno contato com NodeJS e SQL. Comecei um Curso de Análise e Desenvolvimento de Sistemas juntamente com um Curso de Desenvolvimento Back-end Jr que é a área que pretendo atuar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoaresf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucassoaresf&repo=lucassoaresf.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
