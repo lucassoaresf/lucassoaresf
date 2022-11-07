@@ -7,7 +7,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoaresf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucassoaresf&repo=lucassoaresf.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
