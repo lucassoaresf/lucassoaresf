@@ -1,25 +1,27 @@
-### Olá, me chamo Lucas Soares 👋
+# 👨‍💻 Lucas Soares
 
-<div align="center">
-  <a href="https://github.com/lucassoaresf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresf&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+**Engenheiro de Dados | Criador do Tudo Vira Dados | Explorador de Tecnologia**
 
-  
- ##
-  
- <div>
-   <a href="https://instagram.com/lucassoaresf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:lucas.soares0522@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lucas-soares-816635171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
+Sou um profissional movido por desafios e apaixonado por transformar dados em valor. Acredito que **tudo pode virar dado**, desde o clima até as músicas que você ouve — e é justamente isso que venho mostrando através do meu projeto de conteúdo.
+
+### 🚀 O que estou fazendo agora?
+
+🎯 Criando conteúdo acessível e prático sobre dados no projeto [**Tudo Vira Dados**](https://www.instagram.com/tudoviradados)  
+📚 Aprofundando conhecimentos em Python, Machine Learning e soluções em nuvem  
+
+### 💼 Projetos em Destaque
+
+- [Vendas vs Clima](https://github.com/lucassoaresf/vendas-vs-clima)  
+  *Como o tempo influencia nas vendas? Um case divertido e didático para explorar visualização e análise de dados.*
+
+*(em breve: dashboards, automações e mais projetos reais)*
+
+### 📫 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-soares-ferreira/)
+- [Instagram](https://www.instagram.com/tudoviradados)
+
+---
+
+💬 Se você gosta de aprender sobre dados de forma leve e aplicável, **me segue e acompanha os conteúdos** do Tudo Vira Dados.  
+🌱 Ainda estou construindo, mas já tem muita coisa boa saindo do papel.
