@@ -14,6 +14,9 @@ Sou um profissional movido por desafios e apaixonado por transformar dados em va
 - [Vendas vs Clima](https://github.com/lucassoaresf/vendas-vs-clima)  
   *Como o tempo influencia nas vendas? Um case divertido e didático para explorar visualização e análise de dados.*
 
+  [Estudo de Caso Netflix](https://github.com/lucassoaresf/Estudo-de-caso-Netflix)  
+  *Exploração de dados da Netflix com foco em visualizações dos gêneros e países mais presentes no catálogo.*
+
 *(em breve: dashboards, automações e mais projetos reais)*
 
 ### 📫 Vamos nos conectar?
