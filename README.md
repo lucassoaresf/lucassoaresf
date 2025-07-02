@@ -16,6 +16,10 @@ Sou um profissional movido por desafios e apaixonado por transformar dados em va
 
 - [Estudo de Caso Netflix](https://github.com/lucassoaresf/Estudo-de-caso-Netflix)  
   *Exploração de dados da Netflix com foco em visualizações dos gêneros e países mais presentes no catálogo.*
+  
+- [Pipeline de Dados com Airflow + Docker + GCP + Telegram](https://github.com/lucassoaresf/airflow-cotacoes-bronze-silver)
+  *Criação de um Data Lake em camadas (Bronze e Silver), coleta diária de cotações de moedas com Apache Airflow, envio de alertas via bot do Telegram e armazenamento de dados na nuvem usando o Google Cloud Storage.  
+  👉 Um projeto completo de orquestração de dados, automação e boas práticas.*
 
 *(em breve: dashboards, automações e mais projetos reais)*
 
